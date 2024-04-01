@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\caigidomoi\\caigidomoine\\caigidohehe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF7A0EE-C3F2-4B42-9229-3FC77F5DAD05}|caigidohehe\\caigidohehe.csproj|c:\\users\\acer\\onedrive\\desktop\\caigidomoi\\caigidomoine\\caigidohehe\\caigidohehe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CF7A0EE-C3F2-4B42-9229-3FC77F5DAD05}|caigidohehe\\caigidohehe.csproj|solutionrelative:caigidohehe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF7A0EE-C3F2-4B42-9229-3FC77F5DAD05}|caigidohehe\\caigidohehe.csproj|c:\\users\\acer\\onedrive\\desktop\\caigidomoi\\caigidomoine\\caigidohehe\\caigidohehe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CF7A0EE-C3F2-4B42-9229-3FC77F5DAD05}|caigidohehe\\caigidohehe.csproj|solutionrelative:caigidohehe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\caigidomoi\\caigidomoine\\caigidohehe\\caigidohehe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "caigidohehe\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\caigidomoi\\caigidomoine\\caigidohehe\\caigidohehe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "caigidohehe\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T09:11:26.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\caigidomoi\\caigidomoine\\caigidohehe\\caigidohehe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "caigidohehe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\caigidomoi\\caigidomoine\\caigidohehe\\caigidohehe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "caigidohehe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T09:11:17.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
